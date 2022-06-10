@@ -36,12 +36,12 @@ const carbonite = () => {
             sign in to their Google accounts through the implementation of oAuth
             2.0 open standard authentication protocol.
           </p>
-          <Link href="https://0x4a5.github.io/carbonite/">
+          <Link href="https://carbonite-sigma.vercel.app/">
             <a>
               <button className="px-8 py-2 mt-4 mr-8">Demo</button>
             </a>
           </Link>
-          <Link href="https://0x4a5.github.io/carbonite/">
+          <Link href="https://github.com/0x4a5/carbonite">
             <a>
               <button className="px-8 py-2 mt-4">Code</button>
             </a>
