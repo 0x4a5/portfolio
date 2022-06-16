@@ -27,8 +27,8 @@ const About = () => {
             implement, I was instantly attracted and wanted to learn more. I
             started taking courses and building on previously acquired knowledge
             by learning javascript and was even more fascinated with developing
-            websites interactive. I currently started to do freelancing with a
-            focus on Fullstack, Blockchain and mobile development applications.
+            websites interactive. I started doing freelancing with focus on Fullstack, 
+            Blockchain and mobile development applications.
             I am now spending my time building projects with Next JS, React JS,
             Firebase, and am constantly learning new technologies.
           </p>
