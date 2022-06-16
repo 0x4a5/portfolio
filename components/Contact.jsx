@@ -31,8 +31,7 @@ const Contact = () => {
                 <h2 className="py-2">Michael Levi</h2>
                 <p>FullStack Developer</p>
                 <p className="py-4">
-                  Available for Freelancing or W2 positions. Contact me and lets
-                  chat how I can help ou with your next project.
+                  Contact me and lets chat how I can help you with your next project.
                 </p>
               </div>
               {/* Social Media Block */}
