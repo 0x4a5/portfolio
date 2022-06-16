@@ -22,7 +22,7 @@ const Main = () => {
           </div>
           <p className="py-4 text-[#878883] max-w-[70%] m-auto">
             I am a full-stack developer specializing in web, mobile and
-            blockchain software solutions. I focused on providing exception
+            blockchain software solutions. I focused on providing exceptional
             customer service and building long term business relations. I offer
             both personal and multi scale business software solutions. I look
             forward to helping you build your next project.
