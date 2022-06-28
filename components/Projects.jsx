@@ -7,6 +7,7 @@ import carbonImg from "../public/carbonite.png";
 import tokenImg from "../public/tracker.png";
 import crisisImg from "../public/crisis.png";
 import portfoImg from "../public/portfolio.png";
+import forecastImg from "../public/forecast.png";
 
 const Projects = () => {
   return (
@@ -35,6 +36,11 @@ const Projects = () => {
           <ProjectItem
             title="Dev Portfolio"
             backgroundImg={portfoImg}
+            projectUrl="/portfolio"
+          />
+             <ProjectItem
+            title="Dev Portfolio"
+            backgroundImg={forecastImg}
             projectUrl="/portfolio"
           />
         </div>
